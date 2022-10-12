@@ -31,11 +31,13 @@
 
 <h3>Contact Me!</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-benjaminbaigorria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminbaigorria/)](https://www.linkedin.com/in/benjaminbaigorria/)
+[![Linkedin Badge](https://img.shields.io/badge/-benjaminbaigorria-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benjaminisraelbaigorria/)](https://www.linkedin.com/in/benjaminisraelbaigorria/)
   <img alt="" src="" />
   <img alt="" src="" />
   <img alt="" src="" />
   <img alt="" src="" />
+  
+  
   
 
 <!--
